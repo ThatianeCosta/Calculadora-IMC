@@ -1,5 +1,5 @@
 # Calculadora IMC 🖩
-Projeto de uma Calculadora de Índice de Massa Corporal (IMC), utilizando a Linguagem de Programação Python e a biblioteca Tkinter
+Projeto de uma Calculadora de Índice de Massa Corporal (IMC), utilizando a linguagem de programação Python e a biblioteca Tkinter.
 
 <div>
 <img src="https://github.com/user-attachments/assets/c3f37b1e-5522-4cb8-a70c-b35685094fd7" width="300px" />
