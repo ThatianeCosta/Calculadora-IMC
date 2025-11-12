@@ -5,7 +5,7 @@ Projeto de uma Calculadora de Índice de Massa Corporal (IMC), utilizando a ling
 <img src="https://github.com/user-attachments/assets/c3f37b1e-5522-4cb8-a70c-b35685094fd7" width="300px" />
 
 ## Sobre o Projeto
-  Com esse projeto o usuário poderá inserir seu peso e altura, para calcular seu IMC e exibir o resultado em uma janela gráfica
+  Com esse projeto o usuário poderá inserir seu peso e altura, para calcular seu IMC e exibir o resultado em uma janela gráfica.
   Após calcular o IMC, é possível criar uma função que interpreta o resultado e exibe uma mensagem indicando em qual faixa de classificação o usuário se encontra.
  
 ## Como Funciona
